@@ -3,6 +3,6 @@
 
 [Development history ](./SmartSolenoidDevel.md)
 
-[BLE firmware](../../BLEcode)
+[BLE firmware](../../../BLEsmartSolenoid)
 
 [LoRa firmware](../../../SmartSolenoidSmall)
